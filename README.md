@@ -18,7 +18,7 @@ $ omf install plug
 
 ## Usage
 
-Upon installation or loading, plug checks for the existence of the Vundle.vim plugin and will notify if it is missing.
+Upon installation or loading, plug checks for the existence of the Plug.vim plugin and will notify if it is missing.
 
 #### `plug`
 
@@ -43,4 +43,4 @@ Runs PlugClean! to remove unused plugins
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
-[Vundle]:         https://github.com/junegunn/vim-plug
+[Plug]:           https://github.com/junegunn/vim-plug
